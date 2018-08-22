@@ -9,7 +9,7 @@ This is a JavaWeb program which follows the MVC pattern.
 MySQL is used as the data storage tool. Framework was not being used in this program, please be careful about the database naming if you want to try it on your local machine.
 
 ## Key Words
-#### Java  JSP  Servlet  MySql  MVC  Tomcat  HTML/CSS
+#### Java,  JSP,  Servlet,  MySql,  MVC,  Tomcat,  HTML/CSS
 
 ## User Cases
 
@@ -19,11 +19,11 @@ User will be directed to this page when program is started
 
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/1.PNG)
 
-The first compoenant of Employee Management allows users to add a new employee.
+The first component of Employee Management allows users to add a new employee.
 (Note: Users are required to complete every blank field)
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/2.PNG)
 
-If opreation is completed, users will be notified.
+If operation  is completed, users will be notified.
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/3.PNG)
 
 Or if the operation failed.
@@ -36,13 +36,13 @@ There is also a search function which allow users to search for a existing emplo
 Structure of the database --- Employee
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/6.PNG)
 
-Similiar to EM, Product management also have a add-new function which includs more information
+Similar to EM, Product management also have a add-new function which includes more information
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/11.PNG)
 
 The program does not allow identical ID/Name existing at the same time in the database. But to make things easier, a merge feature is provided. When user is trying to add an item more than once, the system can detect such case and give user an option to merge them.
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/12.PNG)
 
-If no probelm is detected, user will be notified and given the updated information
+If no problem is detected, user will be notified and given the updated information
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/13.PNG)
 
 Search a product/products by any condition!
@@ -52,7 +52,7 @@ Search a product/products by any condition!
 
 The product and order management are depending on each other in this program. 
 
-You can view which item is almost out of stock, the next expiring item or you can get a note on the best selling items! This part can be customed as much as user perfers..
+You can view which item is almost out of stock, the next expiring item or you can get a note on the best-selling items! This part can be  costumed as much as user prefers.
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/15.PNG)
 
 Database --- Product Management
@@ -77,5 +77,5 @@ Search for an order by any condition!
 It can give you a summery on your recent performance, and each item's performance.
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/25.PNG)
 
-Database --- Order Managemnt
+Database --- Order Management
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/26.PNG)
