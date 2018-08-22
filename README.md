@@ -19,6 +19,7 @@ User will be directed to this page when program is started
 
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/1.PNG)
 
+
 The first component of Employee Management allows users to add a new employee.
 (Note: Users are required to complete every blank field)
 
