@@ -9,9 +9,9 @@ This is a JavaWeb program which follows the MVC pattern.
 MySQL is used as the data storage tool. Framework was not being used in this program, please be careful about the database naming if you want to try it on your local machine.
 
 ## Key Words
-### * Java   * JavaScript   * JSP/HTML/CSS   * MySQL
-### * Servlet    * Tomcat  
-### * MVC   * Dynamic webpage
+#### * Java   * JavaScript   * JSP/HTML/CSS   * MySQL
+#### * Servlet    * Tomcat  
+#### * MVC   * Dynamic webpage
 
 ## User Cases
 
