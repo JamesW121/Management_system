@@ -10,7 +10,7 @@ MySQL is used as the data storage tool. Framework was not being used in this pro
 
 ## Key Words
 #### * Java   * Dynamic webpage   * JSP/HTML/CSS
-#### * JSP   * Servlet    * Tomcat  
+#### * Servlet    * Tomcat  
 #### * MySql  * MVC  
 
 ## User Cases
