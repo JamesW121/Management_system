@@ -15,11 +15,12 @@ MySQL is used as the data storage tool. Framework was not being used in this pro
 
 ## User Cases
 
-### welcome page
+### Welcome Page
 
 * User will be directed to this page when program is started
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/1.PNG)
 
+### Employee Management
 
 * The first component of Employee Management allows users to add a new employee.
 (Note: Users are required to complete every blank field)
@@ -42,6 +43,7 @@ MySQL is used as the data storage tool. Framework was not being used in this pro
 * Structure of the database --- Employee
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/6.PNG)
 
+### Product Management
 
 * Similar to EM, Product management also have a add-new function which includes more information
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/11.PNG)
@@ -69,6 +71,7 @@ You can view which item is almost out of stock, the next expiring item or you ca
 * Database --- Product Management
 ![Image text](https://github.com/JamesW121/Management_system/blob/master/image/16.PNG)
 
+### Order Management
 
 * Add a new order
 (Note: Product name/ID must be matched with one of the exciting product in the Product Database)
